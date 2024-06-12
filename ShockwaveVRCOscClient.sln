@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShockwaveVRCOscClient", "ShockwaveVRCOscClient\ShockwaveVRCOscClient.csproj", "{FB4A3178-4F50-42B2-943A-56D71CBE172B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OscLib.Utils", "OscLib.Utils\OscLib.Utils.csproj", "{ECBB1188-14E3-42BB-8101-2FEB6E1AD74A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OscLib.Config", "OscLib.Config\OscLib.Config.csproj", "{88CD7817-47DE-43E3-958B-28AC626A0FDF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OscLib.VRChat", "OscLib.VRChat\OscLib.VRChat.csproj", "{31A3EA34-ECA7-419B-91AD-7B5FE21D9D41}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OscLib", "OscLib\OscLib.csproj", "{1BA851CD-9530-4755-920F-179F5D4EB2E8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FB4A3178-4F50-42B2-943A-56D71CBE172B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB4A3178-4F50-42B2-943A-56D71CBE172B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB4A3178-4F50-42B2-943A-56D71CBE172B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB4A3178-4F50-42B2-943A-56D71CBE172B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ECBB1188-14E3-42BB-8101-2FEB6E1AD74A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECBB1188-14E3-42BB-8101-2FEB6E1AD74A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECBB1188-14E3-42BB-8101-2FEB6E1AD74A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECBB1188-14E3-42BB-8101-2FEB6E1AD74A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{88CD7817-47DE-43E3-958B-28AC626A0FDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88CD7817-47DE-43E3-958B-28AC626A0FDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88CD7817-47DE-43E3-958B-28AC626A0FDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88CD7817-47DE-43E3-958B-28AC626A0FDF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31A3EA34-ECA7-419B-91AD-7B5FE21D9D41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31A3EA34-ECA7-419B-91AD-7B5FE21D9D41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31A3EA34-ECA7-419B-91AD-7B5FE21D9D41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31A3EA34-ECA7-419B-91AD-7B5FE21D9D41}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1BA851CD-9530-4755-920F-179F5D4EB2E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BA851CD-9530-4755-920F-179F5D4EB2E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1BA851CD-9530-4755-920F-179F5D4EB2E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1BA851CD-9530-4755-920F-179F5D4EB2E8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
